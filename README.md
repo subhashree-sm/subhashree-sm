@@ -16,4 +16,4 @@
 
 ---
 
-🔗 **Portfolios & Writing:** [Behance](https://www.behance.net) | [Substack]([https://substack.com](https://substack.com/@curatedconfusion))
+🔗 **Portfolios & Writing:** [Behance](https://www.behance.net) | [Substack]([https://substack.com/https://substack.com/@curatedconfusion)
