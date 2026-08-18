@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Subhashree 👋
 
-<!--
-**subhashree-sm/subhashree-sm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**UI/UX & Product Designer** crafting user-centered interfaces and turning design concepts into clean web experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎨 What I Do
+* **Product & UI/UX Design:** Wireframing, design systems, and visual interfaces in Figma.
+* **Frontend Concepts:** Translating design layouts into responsive HTML & CSS web builds.
+
+---
+
+### 🛠️ Tools & Technologies
+* **Design:** Figma
+* **Web:** HTML5, CSS3, Git, GitHub
+
+---
+
+🔗 **Portfolios & Writing:** [Behance](https://www.behance.net) | [Substack]([https://substack.com](https://substack.com/@curatedconfusion))
